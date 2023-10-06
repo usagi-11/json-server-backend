@@ -13,18 +13,18 @@
   ],
   "recipes": [
     {
-      "id": 1,
+      "id": 12,
       "userId": 1,
       "image": "https://www.allrecipes.com/thmb/DZ5WtIe2s6rGk-rIEZDkMA6mGj4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7568285-perfect-pancakes-KH-4x3-218e2c39174c4a2293fca0ab752b38a8.jpg" ,
-      "recipieName": "Pancakes",
+      "recipeName": "Pancakes",
       "slug": "pancakes"
     },
 
     {
-      "id": 2,
+      "id": 13,
       "userId": 2,
       "image": "https://www.allrecipes.com/thmb/3KWh4jk7D6-nxGLj_IdHLo6ToWA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7561904_Tortilla-Fried-Eggs_Bibi_4x3-dedfb767987f4830bdaaf49967753d70.jpg" ,
-      "recipieName": "Fried Egg Tortilla",
+      "recipeName": "Fried Egg Tortilla",
       "slug": "fried-egg-tortilla"
     }
   ]
