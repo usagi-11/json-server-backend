@@ -28,7 +28,7 @@
       "userId": 2,
       "image": "https://www.allrecipes.com/thmb/3KWh4jk7D6-nxGLj_IdHLo6ToWA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7561904_Tortilla-Fried-Eggs_Bibi_4x3-dedfb767987f4830bdaaf49967753d70.jpg" ,
       "recipeName": "Fried Egg Tortilla",
-      "ingredients": "2 teaspoons of butter"   /* ['2 teaspoons butter', '1 large egg', '1/4 teaspoon taco seasoning or to taste' , '1 1/2 ounces shredded Cheddar cheese divided' , '1 (6 to 7-inch) flour tortilla'] */
+      "ingredients": "2 teaspoons of butter"   
   
     }
   ]
