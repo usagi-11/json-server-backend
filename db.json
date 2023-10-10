@@ -9,27 +9,431 @@
       "id": 2,
       "name": "Nora Olson",
       "image": "https://randomuser.me/api/portraits/med/women/55.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Denis Emanuel",
+      "image": "https://randomuser.me/api/portraits/med/men/30.jpg"
+    },{
+      "id": 4,
+      "name": "Bryon Tatiana",
+      "image": "https://randomuser.me/api/portraits/med/women/67.jpg"
+    },{
+      "id": 5,
+      "name": "Nil Tobith",
+      "image": "https://randomuser.me/api/portraits/med/men/24.jpg"
+    },{
+      "id": 6,
+      "name": "Maynard Alizée",
+      "image": "https://randomuser.me/api/portraits/med/women/53.jpg"
+    },{
+      "id": 7,
+      "name": "Isagani Elvar",
+      "image": "https://randomuser.me/api/portraits/med/men/61.jpg"
+    },{
+      "id": 8,
+      "name": "Suzi Simon",
+      "image": "https://randomuser.me/api/portraits/med/women/11.jpg"
     }
   ],
   "recipes": [
     {
-      "slug": "pancakes",
-      "id": "pancakes",
-      "userId": 1,
-      "image": "https://www.allrecipes.com/thmb/DZ5WtIe2s6rGk-rIEZDkMA6mGj4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7568285-perfect-pancakes-KH-4x3-218e2c39174c4a2293fca0ab752b38a8.jpg" ,
+      "id": "1",
+      "image": "https://www.allrecipes.com/thmb/DZ5WtIe2s6rGk-rIEZDkMA6mGj4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7568285-perfect-pancakes-KH-4x3-218e2c39174c4a2293fca0ab752b38a8.jpg",
       "recipeName": "Pancakes",
-      "ingredients": ["2 cups whole milk", "1/4 cup white vinegar", "2 1/2 cups flour", "2 teaspoons baking powder", "1 teaspoon baking soda", "1 teaspoon salt", "3 large eggs", "1 teaspoon vanilla extract", "1 tablespoon butter, softened, or as needed, for greasing, plus more for serving", "toppings of choice, e.g. maple syrup or fruit, for serving"],
-      "directions": ["Preheat a griddle to 300 degrees F (175 degrees C)", "Stir together milk and vinegar in a small bowl or a 4-cup liquid measuring cup", "Whisk together flour, sugar, baking powder, baking soda, and salt in a second bowl", "Beat eggs in a large bowl until smooth. Add vanilla and milk mixture; whisk together. Add flour mixture to bowl with egg mixture and whisk until just combined. (Batter will be lumpy.) Let rest 3 minutes and gently stir again.", "Melt some butter on the griddle, then carefully wipe with a paper towel. (You want just a bit of a sheen; don’t overgrease the griddle.) Spoon batter in 1/3-cup portions onto griddle. Cook until bubbles form on surface of batter, about 2 1/2 minutes", "Flip pancakes and cook until browned on the other side, about 1 1/2 minutes more. Repeat with remaining batter. Serve immediately with butter and toppings"]
+      "ingredients": [
+        "2 cups whole milk",
+        "1/4 cup white vinegar",
+        "2 1/2 cups flour",
+        "2 teaspoons baking powder",
+        "1 teaspoon baking soda",
+        "1 teaspoon salt",
+        "3 large eggs",
+        "1 teaspoon vanilla extract",
+        "1 tablespoon butter, softened, or as needed, for greasing, plus more for serving",
+        "toppings of choice, e.g. maple syrup or fruit, for serving"
+      ],
+      "directions": [
+        "Preheat a griddle to 300 degrees F (175 degrees C)",
+        "Stir together milk and vinegar in a small bowl or a 4-cup liquid measuring cup",
+        "Whisk together flour, sugar, baking powder, baking soda, and salt in a second bowl",
+        "Beat eggs in a large bowl until smooth. Add vanilla and milk mixture; whisk together. Add flour mixture to bowl with egg mixture and whisk until just combined. (Batter will be lumpy.) Let rest 3 minutes and gently stir again.",
+        "Melt some butter on the griddle, then carefully wipe with a paper towel. (You want just a bit of a sheen; don’t overgrease the griddle.) Spoon batter in 1/3-cup portions onto griddle. Cook until bubbles form on surface of batter, about 2 1/2 minutes",
+        "Flip pancakes and cook until browned on the other side, about 1 1/2 minutes more. Repeat with remaining batter. Serve immediately with butter and toppings"
+      ]
     },
-
     {
-      "slug": "fried-egg-tortilla",
-      "id": "fried-egg-tortilla",
-      "userId": 2,
-      "image": "https://www.allrecipes.com/thmb/3KWh4jk7D6-nxGLj_IdHLo6ToWA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7561904_Tortilla-Fried-Eggs_Bibi_4x3-dedfb767987f4830bdaaf49967753d70.jpg" ,
+      "id": "2",
+      "image": "https://www.allrecipes.com/thmb/3KWh4jk7D6-nxGLj_IdHLo6ToWA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7561904_Tortilla-Fried-Eggs_Bibi_4x3-dedfb767987f4830bdaaf49967753d70.jpg",
       "recipeName": "Fried Egg Tortilla",
-      "ingredients": ["2 teaspoons of butter", "1 large egg", "1/4 teaspoon taco seasoning, or to taste", "1 1/2 ounces shredded Cheddar cheese, divided", "1 (6 to 7-inch) flour tortilla"],
-      "directions": ["In a 10-inch nonstick skillet, melt butter over medium heat, and swirl the pan to coat the bottom evenly.", "Carefully break egg into buttered skillet and cook until egg white is opaque and egg is firm enough to turn, about 1 minute.", "Turn egg over, being careful not to break yolk; sprinkle with taco seasoning and about half of cheese.", "Gently place tortilla over egg and cheese and cook about 1 minute", "Using a silicone egg turner flip the egg and tortilla as one", "Sprinkle remaining cheese on top of the egg, and continue cooking until the egg is done to your liking and the tortilla is warm and toasty about 2 minutes.", "Slide tortilla and egg to a serving plate and serve warm."]
+      "ingredients": [
+        "2 teaspoons of butter",
+        "1 large egg",
+        "1/4 teaspoon taco seasoning, or to taste",
+        "1 1/2 ounces shredded Cheddar cheese, divided",
+        "1 (6 to 7-inch) flour tortilla"
+      ],
+      "directions": [
+        "In a 10-inch nonstick skillet, melt butter over medium heat, and swirl the pan to coat the bottom evenly.",
+        "Carefully break egg into buttered skillet and cook until egg white is opaque and egg is firm enough to turn, about 1 minute.",
+        "Turn egg over, being careful not to break yolk; sprinkle with taco seasoning and about half of cheese.",
+        "Gently place tortilla over egg and cheese and cook about 1 minute",
+        "Using a silicone egg turner flip the egg and tortilla as one",
+        "Sprinkle remaining cheese on top of the egg, and continue cooking until the egg is done to your liking and the tortilla is warm and toasty about 2 minutes.",
+        "Slide tortilla and egg to a serving plate and serve warm."
+      ]
+    }
+  ],
+  "recipesRandom": [
+    {
+      "id": "1",
+      "userId": 1,
+      "image": "https://www.allrecipes.com/thmb/DZ5WtIe2s6rGk-rIEZDkMA6mGj4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7568285-perfect-pancakes-KH-4x3-218e2c39174c4a2293fca0ab752b38a8.jpg",
+      "recipeName": "Pancakes",
+      "ingredients": [
+        "2 cups whole milk",
+        "1/4 cup white vinegar",
+        "2 1/2 cups flour",
+        "2 teaspoons baking powder",
+        "1 teaspoon baking soda",
+        "1 teaspoon salt",
+        "3 large eggs",
+        "1 teaspoon vanilla extract",
+        "1 tablespoon butter, softened, or as needed, for greasing, plus more for serving",
+        "toppings of choice, e.g. maple syrup or fruit, for serving"
+      ],
+      "directions": [
+        "Preheat a griddle to 300 degrees F (175 degrees C)",
+        "Stir together milk and vinegar in a small bowl or a 4-cup liquid measuring cup",
+        "Whisk together flour, sugar, baking powder, baking soda, and salt in a second bowl",
+        "Beat eggs in a large bowl until smooth. Add vanilla and milk mixture; whisk together. Add flour mixture to bowl with egg mixture and whisk until just combined. (Batter will be lumpy.) Let rest 3 minutes and gently stir again.",
+        "Melt some butter on the griddle, then carefully wipe with a paper towel. (You want just a bit of a sheen; don’t overgrease the griddle.) Spoon batter in 1/3-cup portions onto griddle. Cook until bubbles form on surface of batter, about 2 1/2 minutes",
+        "Flip pancakes and cook until browned on the other side, about 1 1/2 minutes more. Repeat with remaining batter. Serve immediately with butter and toppings"
+      ]
+    },
+    {
+      "id": "2",
+      "userId": 2,
+      "image": "https://www.allrecipes.com/thmb/3KWh4jk7D6-nxGLj_IdHLo6ToWA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7561904_Tortilla-Fried-Eggs_Bibi_4x3-dedfb767987f4830bdaaf49967753d70.jpg",
+      "recipeName": "Fried Egg Tortilla",
+      "ingredients": [
+        "2 teaspoons of butter",
+        "1 large egg",
+        "1/4 teaspoon taco seasoning, or to taste",
+        "1 1/2 ounces shredded Cheddar cheese, divided",
+        "1 (6 to 7-inch) flour tortilla"
+      ],
+      "directions": [
+        "In a 10-inch nonstick skillet, melt butter over medium heat, and swirl the pan to coat the bottom evenly.",
+        "Carefully break egg into buttered skillet and cook until egg white is opaque and egg is firm enough to turn, about 1 minute.",
+        "Turn egg over, being careful not to break yolk; sprinkle with taco seasoning and about half of cheese.",
+        "Gently place tortilla over egg and cheese and cook about 1 minute",
+        "Using a silicone egg turner flip the egg and tortilla as one",
+        "Sprinkle remaining cheese on top of the egg, and continue cooking until the egg is done to your liking and the tortilla is warm and toasty about 2 minutes.",
+        "Slide tortilla and egg to a serving plate and serve warm."
+      ]
+    },
+    {
+      "id": "3",
+      "userId": 3,
+      "image": "https://www.allrecipes.com/thmb/ry7z12cKrJPhq-QAHSVD7XNl5ys=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slow-cooker-chicken-and-dumplings-1-0c5f473390fd463d86d56b950808d8af.jpg",
+      "recipeName": "Slow Cooker Chicken and Dumplings",
+      "ingredients": [
+        "Boneless, skinless chicken breast halves",
+        "Butter adds creaminess and richness to this comforting meal.",
+        "Two cans of condensed cream of chicken soup make this Crock-Pot chicken and dumplings recipe quick and easy to throw together.",
+        "Kick the flavor up a notch with a diced onion. As the chicken and dumplings cook, the flavor will deepen.",
+        "Instead of making homemade dumplings, try using refrigerated biscuit dough for a convenient shortcut."
+      ],
+      "directions": [
+        "Add the chicken, butter, soup, and onion to a slow cooker and cook on high for about five or six hours",
+        "Add the shredded biscuit dough about 30 minutes before serving",
+        "Let the dough cook in the soup until it's no longer raw",
+        "This recipe is easily customizable, so spice it up however you please."
+      ]
+    },
+    {
+      "id": "4",
+      "userId": 4,
+      "image": "https://www.allrecipes.com/thmb/CJH0yY5X4G5S1KLbpf7ZTnINfqQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/16066-awesome-slow-cooker-pot-roast-mfs_1752-19c3e73c320149939b9c2d7a48d3d741.jpg",
+      "recipeName": "Slow Cooker Pot Roast",
+      "ingredients": [
+        "2 (10.5 ounce) cans condensed cream of mushroom soup",
+        "1 ¼ cups water",
+        "1 (1 ounce) package dry onion soup mix",
+        "5 ½ pounds pot roast"
+      ],
+      "directions": [
+        "Mix condensed soup, water, and dry onion soup mix in a slow cooker. Place pot roast in the slow cooker and coat with soup mixture.",
+        "Cook on Low for 8 to 9 hours or High for 3 to 4 hours."
+      ]
+    },
+    {
+      "id": "5",
+      "userId": 5,
+      "image": "https://www.allrecipes.com/thmb/GTcEDoz20yh9XloVQTEFyn6eAMM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/19766_SixCanChickenTortillaSoup_ddmfs_4x3_2017-3a64f8078b1542d39c1e1a1a7c032797.jpg",
+      "recipeName": "Six Can Chicken Tortilla Soup",
+      "ingredients": [
+        "2 (14.5 ounce) cans chicken broth",
+        "1 (15 ounce) can whole kernel corn, drained",
+        "1 (15 ounce) can black beans",
+        "1 (10 ounce) can chunk chicken",
+        "1 (10 ounce) can diced tomatoes with green chile peppers, drained",
+        "crushed tortilla chips (Optional)",
+        "shredded Cheddar cheese (Optional)"
+      ],
+      "directions": [
+        "Pour chicken broth, corn, black beans, chunk chicken, and diced tomatoes with green chilies into a large saucepan or stockpot over medium heat",
+        "Simmer, stirring occasionally, until chicken is heated through, about 15 minutes",
+        "Serve hot, topped with tortilla chips and grated cheese"
+      ]
+    },
+    {
+      "id": "6",
+      "userId": 6,
+      "image": "https://www.allrecipes.com/thmb/1SVdgjg0KJALUJjhixtFa0S750M=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7368438oreo-mug-cake-recipe-fabeveryday4x3-d38b38d1d19d4b9d858912b758b564ea.jpg",
+      "recipeName": "Oreo Mug Cake",
+      "ingredients": [
+        "Grease a small mug with a bit of butter, oil, or non-stick cooking spray",
+        "Mix Oreo cookie crumbs, whole milk, and baking powder in a small bowl until well combined",
+        "Pour into the prepared mug and microwave for 1 1/2 minutes. Let cool"
+      ],
+      "directions": [
+        "Pour chicken broth, corn, black beans, chunk chicken, and diced tomatoes with green chilies into a large saucepan or stockpot over medium heat",
+        "Simmer, stirring occasionally, until chicken is heated through, about 15 minutes",
+        "Serve hot, topped with tortilla chips and grated cheese"
+      ]
+    },
+    {
+      "id": "7",
+      "userId": 7,
+      "image": "https://www.allrecipes.com/thmb/g9ZLXqHbYBwY4Z0lA6er9nkah-s=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/815784-strawberry-ice-cream-lutzflcat-4x3-1-68425e5d8516423a9df91fce06aca9cb.jpg",
+      "recipeName": "Strawberry Ice Cream",
+      "ingredients": [
+        "1 quart fresh strawberries, hulled",
+        "1 ½ cups heavy cream, divided",
+        "¾ cup white sugar",
+        "3 egg yolks",
+        "3 tablespoons light corn syrup"
+      ],
+      "directions": [
+        "Place strawberries into the container of a blender or food processor; puree until smooth. Pour into a large bowl; set aside",
+        "Heat 1 1/4 cups of cream in a saucepan over medium heat until it begins to bubble at the edge of the pan. Whisk sugar, egg yolks, remaining 1/4 cup cream, and corn syrup together in a large bowl",
+        "Gradually pour the hot cream into egg yolk mixture, whisking constantly. Return mixture to the saucepan and heat until thick enough to coat the back of a metal spoon, about 5 minutes. Do not allow the mixture to boil",
+        "Strain custard into berry puree through a sieve; mix well and refrigerate until chilled",
+        "Fill an ice cream maker with the mixture, and freeze according to the manufacturer's instructions"
+      ]
+    },
+    {
+      "id": "8",
+      "userId": 8,
+      "image": "https://www.allrecipes.com/thmb/5cxIJmaSaAJtHo6JctaNDGHEtgw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/974497-quick-and-easy-clam-chowder-Sugarplum-4x3-1-96e99fbb59d2427b982013482fa8e07a.jpg",
+      "recipeName": "Clam Chowder",
+      "ingredients": [
+        "1 (10.75 ounce) can condensed cream of celery soup",
+        "1 (10.75 ounce) can condensed cream of potato soup",
+        "1 (10.75 ounce) can New England clam chowder",
+        "2 (6.5 ounce) cans minced clams",
+        "1 quart half-and-half cream",
+        "1 pint heavy whipping cream"
+      ],
+      "directions": [
+        "Mix cream of celery soup, cream of potato soup, clam chowder, 1 can undrained clams, 1 can drained clams, half-and-half cream, and whipping cream into a slow cooker",
+        "Cover, and cook on low for 6 to 8 hours"
+      ]
+    },
+    {
+      "id": "9",
+      "userId": 1,
+      "image": "https://www.allrecipes.com/thmb/OgsOgF0drcdjo631eLf7N0Wi0K4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1686746-8c14f30e856743e595e8203df2f861d1.jpg",
+      "recipeName": "PaSlow Cooker Turkey Chilincakes",
+      "ingredients": [
+        "1 ¼ pounds lean ground turkey",
+        "1 (28 ounce) can crushed tomatoes",
+        "1 (16 ounce) can kidney beans, rinsed and drained",
+        "1 (16 ounce) can pinto beans, rinsed and drained",
+        "1 cup chicken stock",
+        "1 small onion, chopped",
+        "1 tablespoon hot sauce (such as Frank's® Redhot®), or more to taste (Optional)",
+        "1 tablespoon chili powder",
+        "2 teaspoons salt",
+        "1 teaspoon minced garlic",
+        "½ teaspoon paprika",
+        "½ teaspoon dried oregano",
+        "½ teaspoon cayenne pepper, or more to taste",
+        "½ teaspoon ground cumin",
+        "½ teaspoon ground black pepper"
+      ],
+      "directions": [
+        "Mix ground turkey, tomatoes, kidney beans, pinto beans, chicken stock, onion, hot sauce, chili powder, salt, minced garlic, paprika, oregano, cayenne pepper, cumin, and black pepper together in a slow cooker; stir to break the turkey into small chunks.",
+        "Cook on Low 6 to 8 hours (or High for 4 hours)."
+      ]
+    },
+    {
+      "id": "10",
+      "userId": 6,
+      "image": "https://www.allrecipes.com/thmb/KwB80-2SA3EPEVFe4bIIDn3keWw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/268231-9d3bd8df35244dd99024bc9eb6d2f50c.jpg",
+      "recipeName": "Slow Cooker Kielbasa and Beer",
+      "ingredients": [
+        "2 pounds kielbasa sausage, cut into 1 inch pieces",
+        "1 (16 ounce) can sauerkraut, drained",
+        "1 (12 fluid ounce) can or bottle beer"
+      ],
+      "directions": [
+        "Combine kielbasa, sauerkraut, and beer in a slow cooker. Cook on Low until kielbasa is tender and plump, 5 to 6 hours."
+      ]
+    },
+    {
+      "id": "11",
+      "userId": 3,
+      "image": "https://www.allrecipes.com/thmb/_lTF3ETGKnzRn_PAONK3YWH9d9o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/553355-slow-cooker-lentil-and-ham-soup-TTV78-4x3-1-4b822a0874b241c299103ef0fe76be86.jpg",
+      "recipeName": "Slow Cooker Lentil and Ham Soup",
+      "ingredients": [
+        "1 ½ cups diced cooked ham",
+        "1 cup dried lentils",
+        "1 cup chopped celery",
+        "1 cup chopped carrots",
+        "1 cup chopped onion",
+        "2 cloves garlic, minced",
+        "½ teaspoon dried basil",
+        "½ teaspoon dried oregano",
+        "¼ teaspoon dried thyme",
+        "¼ teaspoon black pepper",
+        "1 bay leaf",
+        "32 ounces chicken broth",
+        "1 cup water",
+        "8 teaspoons tomato sauce"
+      ],
+      "directions": [
+        "Combine ham, lentils, celery, carrots, onion, and garlic in a 3 1/2-quart or larger slow cooker. Season with basil, oregano, thyme, pepper, and bay leaf. Stir in chicken broth, water, and tomato sauce.",
+        "Cover and cook on Low for 11 hours. Discard bay leaf before serving."
+      ]
+    },
+    {
+      "id": "12",
+      "userId": 2,
+      "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7946962.jpg&q=60&c=sc&orient=true&poi=auto&h=512",
+      "recipeName": "French Dip Sandwiches",
+      "ingredients": [
+        "1 (4 pound) boneless beef roast",
+        "½ cup soy sauce",
+        "1 beef bouillon cube",
+        "1 bay leaf",
+        "3 whole black peppercorns",
+        "1 teaspoon dried rosemary, crushed",
+        "1 teaspoon dried thyme",
+        "1 teaspoon garlic powder",
+        "20 slices French bread"
+      ],
+      "directions": [
+        "Remove and discard all visible fat from the roast. Place trimmed roast in a slow cooker.",
+        "In a medium bowl, combine soy sauce, bouillon, bay leaf, peppercorns, rosemary, thyme, and garlic powder. Pour mixture over roast, and add enough water to almost cover roast. Cover, and cook on Low heat for 10 to 12 hours, or until meat is very tender.",
+        "Remove meat from broth, reserving broth. Shred meat with a fork, and distribute on bread for sandwiches. Used reserved broth for dipping."
+      ]
+    },
+    {
+      "id": "13",
+      "userId": 8,
+      "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F7737c109e40594477998bfe4d813fc42%2F1666386981180potato-soup.jpg&q=60&c=sc&orient=true&poi=auto&h=512",
+      "recipeName": "Slow Cooker, Easy Baked Potato Soup",
+      "ingredients": [
+        "10 red potatoes, cut into cubes",
+        "3 tablespoons all-purpose flour",
+        "¾ cup real bacon bits",
+        "1 small red onion, chopped",
+        "1 clove garlic, minced",
+        "2 tablespoons chicken bouillon granules",
+        "1 tablespoon ranch dressing mix",
+        "2 teaspoons dried parsley",
+        "1 teaspoon seasoned salt",
+        "½ teaspoon ground black pepper",
+        "3 cups water",
+        "1 cup half-and-half",
+        "½ cup shredded Cheddar cheese, or to taste",
+        "¼ cup chopped green onion, or to taste"
+      ],
+      "directions": [
+        "Put potatoes in the bottom of your slow cooker crock. Scatter flour over the potatoes; toss to coat.",
+        "Scatter bacon bits, red onion, garlic, chicken bouillon, ranch dressing mix, parsley, seasoned salt, and black pepper over the potatoes.",
+        "Pour water into the slow cooker.",
+        "Cook on Low 7 to 9 hours.",
+        "Pour half-and-half into the soup; cook another 15 minutes.",
+        "Garnish with Cheddar cheese and green onion to serve."
+      ]
+    },
+    {
+      "id": "14",
+      "userId": 7,
+      "image": "https://www.allrecipes.com/thmb/y2r57IZZdaFQZdwfGlwnE2jKdi4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/16352-SlowCookerBeefStroganoff-I-ddmfs-1X1-0128-8c6cac217b19401da543b708642a296e.jpg",
+      "recipeName": "PaSlow Cooker Turkey Chilincakes",
+      "ingredients": [
+        "1 pound cubed beef stew meat",
+        "1 (10.75 ounce) can condensed golden mushroom soup",
+        "½ cup chopped onion",
+        "¼ cup water",
+        "1 tablespoon Worcestershire sauce",
+        "4 ounces cream cheese"
+      ],
+      "directions": [
+        "Combine beef, soup, onion, water, and Worcestershire sauce in a slow cooker.",
+        "Cook on Low for 8 hours or High for 5 hours. Stir in cream cheese just before serving.",
+        "Serve over noodles."
+      ]
+    },
+    {
+      "id": "15",
+      "userId": 4,
+      "image": "https://www.allrecipes.com/thmb/VqUVXd1oi05DrC9uHX9OhP2E8zw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-Shot-2020-10-26-at-12.10.46-PM-84e48492c80b4d99b20838ab7c909514.png",
+      "recipeName": "Award-Winning White Chicken Chili",
+      "ingredients": [
+        "1 (14 ounce) can chicken broth",
+        "1 (10.5 ounce) can condensed cream of chicken soup",
+        "1 (4 ounce) can chopped green chile peppers",
+        "1 (1.25 ounce) package taco seasoning",
+        "1 ¼ pounds skinless, boneless chicken breast",
+        "2 (15 ounce) cans great northern beans",
+        "1 (15 ounce) can white corn, drained",
+        "½ cup sour cream",
+        "½ cup shredded pepper Jack cheese, or to taste"
+      ],
+      "directions": [
+        "Mix chicken broth, condensed soup, chile peppers, and taco seasoning together in a bowl.",
+        "Layer chicken, great northern beans, and corn in a slow cooker. Pour broth mixture over top. Cover and cook on Low until chicken is no longer pink in the center and the juices run clear, 8 to 10 hours. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+        "Transfer chicken to a cutting board. Shred with two forks or cut into bite-sized pieces. Return to the slow cooker.",
+        "Stir in sour cream and pepper Jack cheese; cover and cook on Low until cheese is melted, 3 to 5 minutes."
+      ]
+    },
+    {
+      "id": "16",
+      "userId": 5,
+      "image": "https://www.allrecipes.com/thmb/AxGJfMjR8s04KuK6lLEZMJRVAmw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/230298-ddmfs-slow-cooker-vegetarian-minestrone-3X4-0067-a31f18c96a0e44879c22b30aed0fde0a.jpg",
+      "recipeName": "Slow Cooker Minestrone",
+      "ingredients": [
+        "6 cups vegetable broth",
+        "1 (28 ounce) can crushed tomatoes",
+        "1 (15 ounce) can kidney beans, drained",
+        "1 large onion, chopped",
+        "2 large carrots, diced",
+        "2 ribs celery, diced",
+        "1 cup green beans",
+        "1 small zucchini, chopped",
+        "3 cloves garlic, minced",
+        "1 tablespoon minced fresh parsley",
+        "1 ½ teaspoons dried oregano",
+        "1 teaspoon salt",
+        "¾ teaspoon dried thyme",
+        "¼ teaspoon freshly ground black pepper",
+        "½ cup elbow macaroni",
+        "4 cups chopped fresh spinach",
+        " ¼ cup finely grated Parmesan cheese, or more to taste"
+      ],
+      "directions": [
+        "Gather all ingredients.",
+        "Combine broth, tomatoes, kidney beans, onion, carrots, celery, green beans, zucchini, garlic, parsley, oregano, salt, thyme, and pepper in a 6-quart slow cooker. Cover and cook on Low for 6 to 8 hours.",
+        "Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally, until cooked through but firm to the bite, 8 minutes; drain.",
+        "Stir macaroni and spinach into the slow cooker; cover and cook for 15 more minutes.",
+        "Ladle into bowls and sprinkle with Parmesan cheese."
+      ]
     }
   ]
 }
