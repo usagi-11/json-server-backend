@@ -14,23 +14,28 @@
       "id": 3,
       "name": "Denis Emanuel",
       "image": "https://randomuser.me/api/portraits/med/men/30.jpg"
-    },{
+    },
+    {
       "id": 4,
       "name": "Bryon Tatiana",
       "image": "https://randomuser.me/api/portraits/med/women/67.jpg"
-    },{
+    },
+    {
       "id": 5,
       "name": "Nil Tobith",
       "image": "https://randomuser.me/api/portraits/med/men/24.jpg"
-    },{
+    },
+    {
       "id": 6,
       "name": "Maynard Alizée",
       "image": "https://randomuser.me/api/portraits/med/women/53.jpg"
-    },{
+    },
+    {
       "id": 7,
       "name": "Isagani Elvar",
       "image": "https://randomuser.me/api/portraits/med/men/61.jpg"
-    },{
+    },
+    {
       "id": 8,
       "name": "Suzi Simon",
       "image": "https://randomuser.me/api/portraits/med/women/11.jpg"
@@ -82,6 +87,22 @@
         "Sprinkle remaining cheese on top of the egg, and continue cooking until the egg is done to your liking and the tortilla is warm and toasty about 2 minutes.",
         "Slide tortilla and egg to a serving plate and serve warm."
       ]
+    },
+    {
+      "recipeName": "ice cream",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Strawberry_ice_cream_cone_%285076899310%29.jpg/640px-Strawberry_ice_cream_cone_%285076899310%29.jpg",
+      "ingredients": [
+        "milk",
+        "ice",
+        "strawberry"
+      ],
+      "directions": [
+        "mix",
+        "mix",
+        "put in fridge",
+        "eat!!"
+      ],
+      "id": "O__S4zH"
     }
   ],
   "recipesRandom": [
@@ -246,7 +267,7 @@
       "id": "9",
       "userId": 1,
       "image": "https://www.allrecipes.com/thmb/OgsOgF0drcdjo631eLf7N0Wi0K4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1686746-8c14f30e856743e595e8203df2f861d1.jpg",
-      "recipeName": "PaSlow Cooker Turkey Chilincakes",
+      "recipeName": "Slow Cooker Turkey Chilincakes",
       "ingredients": [
         "1 ¼ pounds lean ground turkey",
         "1 (28 ounce) can crushed tomatoes",
